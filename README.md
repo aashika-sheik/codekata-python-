@@ -1,7 +1,7 @@
 
 # CodeKata Python Practice
 
-This repository contains Python solutions to coding problems from [CodeKata](https://www.codekata.com/), organized using Jupyter Notebooks.
+This repository contains Python solutions to coding problems from [CodeKata](https://www.guvi.in/code-kata/), organized using Jupyter Notebooks.
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains Python solutions to coding problems from [CodeKata](htt
   - Python solution
 ---
 
-[CodeKata](https://www.codekata.com/) is a platform that provides coding problems to help you improve through repetition and practice — like a kata in martial arts.
+[CodeKata](https://www.guvi.in/code-kata/) is a platform that provides coding problems to help you improve through repetition and practice — like a kata in martial arts.
 
 ---
 
