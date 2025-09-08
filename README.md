@@ -22,8 +22,6 @@ This repository contains Python solutions to coding problems from [CodeKata](htt
 
 ---
 
-## Thanks
-
 Thanks for checking out my repository.  
 Feel free to explore, use my notebooks as references, or share feedback.
 
